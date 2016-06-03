@@ -1,0 +1,12 @@
+
+RewriteOptions inherit
+
+RewriteEngine on
+
+RewriteCond %{HTTP_HOST} ^icrpv5\.org$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.icrpv5\.org$
+RewriteRule ^bali\/?$ "https\:\/\/icrpv5\.org\/" [R=302,L]
+
+RewriteCond %{HTTPS} off
+RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI}
+

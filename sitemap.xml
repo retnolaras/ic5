@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>https://icrpv5.org/</loc>
+  <lastmod>2014-06-23T19:38:57+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://icrpv5.org/index.php?page=home.php</loc>
+  <lastmod>2014-06-23T19:38:57+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://icrpv5.org/index.php?page=agenda.php</loc>
+  <lastmod>2014-06-23T19:38:57+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://icrpv5.org/index.php?page=venue.php</loc>
+  <lastmod>2014-06-23T19:38:57+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://icrpv5.org/index.php?page=registration.php</loc>
+  <lastmod>2014-06-23T19:38:57+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://icrpv5.org/index.php?page=organizer.php</loc>
+  <lastmod>2014-06-23T19:38:57+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://icrpv5.org/index.php?page=travel.php</loc>
+  <lastmod>2014-06-23T19:38:57+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://icrpv5.org/index.php?page=donor_sponsor.php</loc>
+  <lastmod>2014-06-23T19:38:57+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://icrpv5.org/index.php?page=contact_us.php</loc>
+  <lastmod>2014-06-23T19:38:57+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://icrpv5.org/index.php?page=news.php</loc>
+  <lastmod>2014-06-23T19:38:57+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+</urlset>
